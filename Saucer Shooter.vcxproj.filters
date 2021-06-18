@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="MainGame.cpp" />
+    <ClCompile Include="Laser.cpp" />
+    <ClCompile Include="Saucer.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="Gem.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Laser.h" />
+    <ClInclude Include="Saucer.h" />
+    <ClInclude Include="MainGame.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="Gem.h" />
+  </ItemGroup>
+</Project>
